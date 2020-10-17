@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# call it whatever you want to call it
+config.py
+.DS_Store
+secrets.py
+.vscode
+.ipynb_checkpoints
+
